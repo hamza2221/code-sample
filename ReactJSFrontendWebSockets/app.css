@@ -1,0 +1,15 @@
+.text-align-left {
+    text-align: left;
+}
+
+.cover-container {
+    background: url(/img/background.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: white;
+    color: black;
+}
+
+.mastfoot {
+    color: black;
+}
